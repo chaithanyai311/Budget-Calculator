@@ -1,2 +1,2 @@
 # Budget-Calculator
-Angular project
+Angular project with Basic CRUD operations
