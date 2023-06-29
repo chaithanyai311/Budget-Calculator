@@ -1,0 +1,17 @@
+@import '../../main-styles.scss';
+
+.button{
+    background-color: $purple; 
+    border-color: $purple;
+}
+
+.button:disabled {   
+    background-color: rgb(214,180,247);
+    border-color: rgb(214,180,247);
+}
+
+.button:hover {
+    background-color:  rgb(193, 140, 247); ;
+    border-color:rgb(193, 140, 247);
+  }
+
